@@ -48,5 +48,10 @@ dep ensure
 go test ./...
 ```
 
+## Roadmap
+
+- [ ] Recompile Code
+- [ ] Tests
+- [ ] Mainnet production
 ## License
 [MIT License](https://github.com/p2pderivatives/dlc/blob/master/LICENSE)
