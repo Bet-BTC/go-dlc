@@ -1,4 +1,4 @@
-# Discreet Log Contracts (DLC) ⚡
+# Discreet Log Contracts (DLC) [GO] ⚡
 
 [![CircleCI](https://circleci.com/gh/p2pderivatives/dlc.svg?style=svg)](https://circleci.com/gh/p2pderivatives/dlc)
 
