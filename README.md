@@ -1,4 +1,5 @@
-# Discreet Log Contracts (DLC)
+# Discreet Log Contracts (DLC) [GO] ⚡
+
 [![CircleCI](https://circleci.com/gh/p2pderivatives/dlc.svg?style=svg)](https://circleci.com/gh/p2pderivatives/dlc)
 
 Discreet Log Contracts (DLC) are smart contracts proposed by Thaddeus Dryja in [this paper](https://adiabat.github.io/dlc.pdf), which allow you to facilitate conditional payment on Bitcoin.
@@ -48,5 +49,10 @@ dep ensure
 go test ./...
 ```
 
+## Roadmap
+
+- [ ] Recompile Code
+- [ ] Tests
+- [ ] Mainnet production
 ## License
 [MIT License](https://github.com/p2pderivatives/dlc/blob/master/LICENSE)
