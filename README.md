@@ -54,5 +54,7 @@ go test ./...
 - [ ] Recompile Code
 - [ ] Tests
 - [ ] Mainnet production
+- [ ] BOLT11/BOLT2
+- [ ] Release Go packages
 ## License
 [MIT License](https://github.com/p2pderivatives/dlc/blob/master/LICENSE)
