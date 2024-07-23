@@ -6,7 +6,7 @@ version: 2
 jobs:
   build-and-test:
     docker:
-      - image: circleci/golang:1.11
+      - image: circleci/golang:1.17
     working_directory: /go/src/github.com/p2pderivatives/dlc
     steps:
       - run:
@@ -43,7 +43,7 @@ jobs:
           command: make stop_bitcoind
   lint:
     docker:
-      - image: circleci/golang:1.11
+      - image: circleci/golang:1.17
     working_directory: /go/src/github.com/p2pderivatives/dlc
     steps:
       - checkout
